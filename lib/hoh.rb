@@ -31,7 +31,7 @@ PORTION_1 = {
  }
 
 def naming_system
-  PORTION_1[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:label]
+  PORTION_1[:sub_category][:sub_category]
   # Remember:
   #  Kingdom
   #  Phylum
